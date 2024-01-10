@@ -43,6 +43,12 @@ RuntimeError: This is a custom error message
 ```
 > Here is an example of using a codeblocks for an error thaht appears in bash.
 
+When you can always provide a codeblock instead of a screnshot.
+If you need to take a screenshot make sure it is not a photo from your phone.
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen.
+If it render on your computer screen it should be a screenshot 
+
 ## Step 3 - Use GiHub Flavored Markdown Task Lists
 
 Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
